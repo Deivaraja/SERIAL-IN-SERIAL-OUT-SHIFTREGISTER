@@ -49,9 +49,9 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
     end
     endmodule
 ```
-Developed by:AMIRTHA VARSHINI M
+Developed by:DEIVARAJA R
 
-RegisterNumber:212224230017
+RegisterNumber:212224240031
 
 ```
 
